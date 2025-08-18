@@ -18,11 +18,8 @@ I'm a passionate **Senior Cloud & DevOps Engineer** with expertise in building s
 ## 🏆 Coding Challenges & Skills
 
 [![Codewars](https://www.codewars.com/users/JorgeSaicoski/badges/large)](https://www.codewars.com/users/JorgeSaicoski)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JorgeSarkis)](https://leetcode.com/JorgeSarkis)
 
-**Problem Solving Platforms:**
-- **Codewars**: 7 kyu in Go - Consistent daily practice
-- **HackerRank**: Building skills assessment portfolio
-- **LeetCode**: Preparing for technical interviews
 
 ## 🛠️ Technical Skills
 
