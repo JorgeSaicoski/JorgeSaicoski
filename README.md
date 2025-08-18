@@ -16,8 +16,10 @@ I'm a passionate **Senior Cloud & DevOps Engineer** with expertise in building s
 - 📍 Location: Montevideo, Uruguay 🇺🇾
 
 ## 🏆 Coding Challenges & Skills
-
+### Codewars
 [![Codewars](https://www.codewars.com/users/JorgeSaicoski/badges/large)](https://www.codewars.com/users/JorgeSaicoski)
+
+### LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JorgeSarkis)](https://leetcode.com/JorgeSarkis)
 
 
