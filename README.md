@@ -28,7 +28,6 @@ I'm a passionate **Senior Cloud & DevOps Engineer** with expertise in building s
 **Languages & Frameworks:**
 - **Primary**: Golang (Gin), Python (Django, FastAPI), JavaScript/TypeScript (Node.js, NestJS)
 - **Frontend**: React, Angular, Svelte
-- **Other**: Java, Bash
 
 **Cloud & DevOps:**
 - **Cloud Platforms**: AWS (EC2, ECS, S3, RDS, IAM), Azure, GCP, DigitalOcean
@@ -41,9 +40,9 @@ I'm a passionate **Senior Cloud & DevOps Engineer** with expertise in building s
 - **NoSQL**: MongoDB
 
 **Languages:**
-- 🇵🇹 Portuguese (Native)
-- 🇪🇸 Spanish (Fluent)
-- 🇺🇸 English (Fluent)
+- Portuguese (Native)
+- Spanish (Fluent)
+- English (Fluent)
 
 ## 💼 Recent Experience
 
