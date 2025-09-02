@@ -167,7 +167,6 @@ I believe in building reusable, high-quality libraries that benefit the entire d
 
 - 💼 **LinkedIn**: [Jorge Saicoski](https://www.linkedin.com/in/jorge-saicoski)
 - 📧 **Email**: jorgesaicoski@gmail.com
-- 🌍 **Portfolio**: [sarkis.dev](https://sarkis.dev)
 - 📱 **Phone**: +598 93 309 600
 
 ## ⚡ More about me
