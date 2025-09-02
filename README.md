@@ -1,178 +1,123 @@
-# Hi, I'm Jorge Adriano Saicoski Sarkis 👋
+# Hi there! 👋 I'm Jorge Adriano Saicoski Sarkis
 
-**Senior Backend Developer & Cloud Engineer** | 8+ years experience | Remote work specialist
+<div align="center">
 
-Currently working as **Golang Developer for The Home Depot** at Tata Consultancy Services, building high-performance microservices that handle 50K+ requests/minute with 99.9% uptime.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-saicoski/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:jorgesaicoski@gmail.com)
+[![Codewars](https://img.shields.io/badge/-Codewars-black?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/JorgeSaicoski)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/JorgeSarkis/)
 
-## 🚀 About Me
+</div>
 
-I'm a passionate **Senior Cloud & DevOps Engineer** with expertise in building scalable, cost-efficient systems. I've successfully reduced infrastructure costs by 30%+ and led migrations to cloud-native architectures serving 10M+ monthly active users.
+## 🚀 Senior Backend Developer & Cloud Engineer
 
-- 🔭 Currently working on: **Personal Manager** - A comprehensive microservices ecosystem for personal organization
-- 🌱 Building: **pgconnect**, **microservice-commons**, and other reusable Go libraries
-- 🎯 Goal: Expanding remote work opportunities and contributing to open source
-- 💬 Ask me about: Golang, Cloud Architecture, Microservices, DevOps, and System Design
-- 📫 Reach me: jorgesaicoski@gmail.com
-- 📍 Location: Montevideo, Uruguay 🇺🇾
+Senior Backend Engineer specialized in **Golang** with 8+ years of experience designing high-performance APIs, distributed systems, and cloud-native architectures. Currently optimizing systems at **Tata Consultancy Service** and passionate about transforming legacy systems into scalable solutions.
 
-## 🏆 Coding Challenges & Skills
-### Codewars
-[![Codewars](https://www.codewars.com/users/JorgeSaicoski/badges/large)](https://www.codewars.com/users/JorgeSaicoski)
+### 🌟 What I Do
+- **Performance Optimization**: Reduced query times by 60% and operational costs by 30%
+- **System Modernization**: Transform legacy systems with 90% reduction in development cycles  
+- **Cloud Architecture**: Design scalable, cloud-native solutions for enterprises of all sizes
+- **Team Leadership**: Led development teams creating enterprise-grade applications
 
-### LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JorgeSarkis)](https://leetcode.com/JorgeSarkis)
+## 🛠️ Tech Stack
 
+### Languages & Frameworks
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
-## 🛠️ Technical Skills
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-**Languages & Frameworks:**
-- **Primary**: Golang (Gin), Python (Django, FastAPI), JavaScript/TypeScript (Node.js, NestJS)
-- **Frontend**: React, Angular, Svelte
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-**Cloud & DevOps:**
-- **Cloud Platforms**: AWS (EC2, ECS, S3, RDS, IAM), Azure, GCP, DigitalOcean
-- **Infrastructure**: Terraform, Ansible, Helm, AWS CDK
-- **CI/CD**: GitHub Actions, Spinnaker, Jenkins, Docker, Kubernetes
-- **Monitoring**: Prometheus, Grafana, Nginx, CloudWatch
+## 🏆 Featured Projects
 
-**Databases:**
-- **SQL**: PostgreSQL, MySQL, SQLite
-- **NoSQL**: MongoDB
+### 🎯 [Personal Manager](https://github.com/JorgeSaicoski/personal-manager) 
+**Microservices-based Personal Organization Platform**
+- **Tech**: Go, Next.js, Keycloak, PostgreSQL, Docker
+- **Features**: Task management, authentication, API gateway
+- **Architecture**: Modular system with planned specialized modules
 
-**Languages:**
-- Portuguese (Native)
-- Spanish (Fluent)
-- English (Fluent)
+### ⏰ [Time Manager](https://github.com/JorgeSaicoski/time-manager)
+**Desktop Time Tracking Application**
+- **Tech**: Wails (Go + Svelte), SQLite
+- **Purpose**: Help employees track work hours and productivity
+- **Impact**: Assists professionals in salary negotiations with documented work patterns
 
-## 💼 Recent Experience
-
-### 🏢 Tata Consultancy Services
-**Golang Developer for The Home Depot** | Sept 2024 – Present
-- Migrated legacy Python API to high-performance Golang microservice
-- **Performance**: 60% improvement in query performance
-- **Scale**: 50K+ requests/minute with 99.9% uptime
-- **Technologies**: Golang, GCP, Terraform, GitHub Actions, Spinnaker
-
-**Azure App Service Engineer for Microsoft** | Nov 2023 - Sept 2024
-- Managed Azure production environments serving millions of users
-- **Cost Optimization**: 30% reduction in operational costs
-- **Impact**: Infrastructure serving 10M+ monthly active users
-
-### 💻 Freelancer Developer | 2016 - 2023
-- Led development teams delivering cloud-native applications
-- Built healthcare imaging platform (CUDIM) with HIPAA-aligned security
-- Reduced restaurant order processing from 5 minutes to instant delivery
-
-## 🚀 Featured Projects
-
-### 🏗️ [Personal Manager](https://github.com/JorgeSaicoski/personal-manager)
-**Comprehensive microservices ecosystem for personal organization**
-
-A modular platform built with modern architecture:
-- **Frontend**: Next.js with TypeScript
-- **Backend**: Multiple Go microservices
-- **Infrastructure**: Docker, Nginx gateway, PostgreSQL
-- **Authentication**: Keycloak SSO integration
-
-**Modules:**
-- ✅ Task Management - Complete CRUD with status tracking
-- ⏳ Professional Tracker - Time tracking for multiple companies
-- ⏳ Education Manager - Course and student management
-- ⏳ Finance Tracker - Multi-platform account aggregation
-
-### 📚 [pgconnect](https://github.com/JorgeSaicoski/pgconnect)
-**Lightweight Go package for PostgreSQL connectivity**
-- Generic repository pattern for GORM
-- Connection pooling and transaction support
-- Easy integration with Gin applications
-- Used across multiple microservices
-
-### 🛠️ [microservice-commons](https://github.com/JorgeSaicoski/microservice-commons)
-**Go library for microservices architecture patterns**
-- Eliminates 50+ lines of boilerplate per service
-- Standardized configuration, middleware, and responses
-- Database management with health monitoring
-- Authentication integration helpers
+### 🗃️ [PgConnect](https://github.com/JorgeSaicoski/pgconnect)
+**Generic PostgreSQL Repository Library**
+- **Tech**: Go, GORM, PostgreSQL
+- **Purpose**: Reusable database connection and repository patterns
+- **Benefits**: Accelerates Go application development
 
 ### 📊 [YourStatsHelper](https://github.com/JorgeSaicoski/YourStatsHelper)
-**Statistical calculations web application**
-- **Frontend**: Angular with responsive design
-- **Backend**: NestJS with authentication system
-- **Features**: Descriptive statistics, frequency analysis, user permissions
-- **Deployment**: Docker containerization ready
+**Statistics Learning Platform**
+- **Tech**: Angular, NestJS, PostgreSQL, PayPal Integration
+- **Features**: Statistical calculations, VIP subscriptions, educational content
+- **Impact**: Helps students master statistics with interactive tools
 
-### ⏱️ [Time Manager](https://github.com/JorgeSaicoski/time-manager)
-**Desktop time tracking application**
-- **Technologies**: Golang, Svelte, Wails
-- **Purpose**: Help tech support workers track jobs
-- **Features**: Time tracking, reporting, manager communication tools
-- **Status**: Ready for use and download
+## 💼 Professional Experience Highlights
 
-## 🏅 Certifications & Awards
+**🏢 Tata Consultancy Services** (Nov 2023 - Present) 
+- Azure App Service Engineer for Microsoft
+- Reduced cloud operational costs by **30%** using advanced diagnostics
+- Implemented Go API replacing Python system → **60% performance improvement**
+- Led CI/CD improvements with GitHub Actions, Spinnaker
 
-- **LPIC-102** (QA North America) - Linux Professional Institute
-- **Azure ELX PERF Specialist** - Azure Performance Specialist
-- **Azure ELX DEV Specialist** - Azure Developer Specialist
-- **Best Team Microsoft TCS** - Team recognition at TCS
-- **Recognition Certificate Microsoft** - Individual recognition
+**💻 Freelancer at Wozcode** (Aug 2018 - Nov 2023)
+- Led teams of 5 engineers creating CRM solutions
+- Reduced restaurant order processing from **5 minutes to instant**
+- Developed healthcare management systems (CUDIM)
 
-**Education:**
-- **Postgraduate in Cloud Computing** (2023) - 440 hours
-- **Postgraduate in Software Engineering** (2023) - 360 hours
+## 🎓 Education & Certifications
 
-## 📊 GitHub Stats
+- **Postgraduate**: Cloud Computing & Software Engineering - Anhanguera Educacional
+- **Azure ELX PERF/DEV Specialist**
+- **LPIC-102 Certification**
+- **Microsoft Recognition Certificate**
+- **NestJS Fundamentals Certification**
 
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeSaicoski&show_icons=true&theme=dark)
+## 🌱 What I'm Currently Working On
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSaicoski&layout=compact&theme=dark)
+- 🔨 Building modular Personal Manager ecosystem with specialized modules
+- 🚀 Contributing to open-source Go libraries for microservices
+- 📚 Exploring advanced cloud-native patterns and observability
+- 🤝 Looking for opportunities to collaborate on innovative projects
 
-## 🤝 Open Source Contributions
+## 📈 GitHub Stats
 
-I believe in building reusable, high-quality libraries that benefit the entire developer community:
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeSaicoski&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSaicoski&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-**My Library Ecosystem:**
-- **pgconnect** - PostgreSQL repository pattern for Go
-- **microservice-commons** - Shared utilities for microservice architecture
-- **keycloak-auth** - JWT validation middleware (planned)
-- **go-api-gateway** - HTTP routing utilities (planned)
+## 🎯 About me
 
-**Contribution Guidelines:**
-- Focus on generic, reusable solutions
-- Comprehensive documentation and examples
-- Test coverage and backward compatibility
-- Clean, maintainable code patterns
+- 🐧 **Linux Enthusiast**: Using Fedora
+- 🌍 **Multilingual**: Fluent in Portuguese, Spanish, and English
+- 🧮 **Math Geek**: Created statistical tools that help students overcome fear of numbers
+- 🏢 **Business Minded**: Co-founded management software for microenterprises
+- 🔧 **Problem Solver**: Transformed restaurant operations from chaos to instant efficiency
 
-## 💡 What I'm Learning
+---
 
-- **Advanced Golang patterns** - Exploring generics and performance optimization
-- **Kubernetes orchestration** - Deep diving into production-ready deployments
-- **System design** - Preparing for senior-level technical interviews
-- **Open source leadership** - Building communities around my libraries
+### 💡 "True changes require order, discipline, and perseverance"
 
-## 📈 Goals & Vision
+*Always open to interesting conversations and collaboration opportunities!*
 
-**Short-term (2025):**
-- Complete Personal Manager platform with all planned modules
-- Publish 5+ reusable Go libraries
-- Reach 5 kyu on Codewars
-- Land senior remote position in international company
-
-**Long-term:**
-- Become a recognized contributor to Go ecosystem
-- Mentor junior developers in cloud architecture
-- Build sustainable open source projects
-- Establish thought leadership in microservices architecture
-
-## 🌐 Connect With Me
-
-- 💼 **LinkedIn**: [Jorge Saicoski](https://www.linkedin.com/in/jorge-saicoski)
-- 📧 **Email**: jorgesaicoski@gmail.com
-- 📱 **Phone**: +598 93 309 600
-
-## ⚡ More about me
-
-- 🌎 I've successfully collaborated with teams across US, Caribbean, and India
-- 🏗️ I built a restaurant management system that reduced order processing from 5 minutes to instant
-- 🔧 I love creating tools that solve real-world problems (like my Time Manager for tech support)
-- 📚 I'm building an ecosystem of Go libraries that other developers can use
-
+**📍 Location**: Montevideo, Uruguay  
+**💼 Status**: Open to remote Golang opportunities  
+**🌟 Passion**: Transforming complex problems into elegant solutions
