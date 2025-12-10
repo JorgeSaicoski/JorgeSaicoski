@@ -97,11 +97,18 @@ Senior Backend Engineer specialized in **Golang** with 8+ years of experience de
 - 📚 Exploring advanced cloud-native patterns and observability
 - 🤝 Looking for opportunities to collaborate on innovative projects
 
-## 📈 GitHub Stats
+## 📊 GitHub Profile Summary
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeSaicoski&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSaicoski&layout=compact&langs_count=8&theme=radical"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JorgeSaicoski&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JorgeSaicoski&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JorgeSaicoski&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JorgeSaicoski&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JorgeSaicoski&theme=radical)
+
 </div>
 
 ## 🎯 About me
