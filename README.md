@@ -21,6 +21,7 @@ Jorge Adriano Saicoski Sarkis
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/JorgeSarkis/)
 
 </div>
+
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
