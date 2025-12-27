@@ -1,4 +1,17 @@
-# Hi there! 👋 I'm Jorge Adriano Saicoski Sarkis
+# Welcome to my Github
+Jorge Adriano Saicoski Sarkis
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JorgeSaicoski&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JorgeSaicoski&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JorgeSaicoski&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JorgeSaicoski&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JorgeSaicoski&theme=radical&utcOffset=-3)
+
+</div>
 
 <div align="center">
 
@@ -8,17 +21,6 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/JorgeSarkis/)
 
 </div>
-
-## 🚀 Senior Backend Developer & Cloud Engineer
-
-Senior Backend Engineer specialized in **Golang** with 8+ years of experience designing high-performance APIs, distributed systems, and cloud-native architectures. Currently optimizing systems at **Tata Consultancy Service** and passionate about transforming legacy systems into scalable solutions.
-
-### 🌟 What I Do
-- **Performance Optimization**: Reduced query times by 60% and operational costs by 30%
-- **System Modernization**: Transform legacy systems with 90% reduction in development cycles  
-- **Cloud Architecture**: Design scalable, cloud-native solutions for enterprises of all sizes
-- **Team Leadership**: Led development teams creating enterprise-grade applications
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -45,6 +47,22 @@ Senior Backend Engineer specialized in **Golang** with 8+ years of experience de
 
 ## 🏆 Featured Projects
 
+## 🏆 Featured Projects
+
+### 💼 [Portfolio Manager](https://github.com/JorgeSaicoski/portfolio-manager)
+**Modern Portfolio Management Platform with Microservices Architecture**
+- **Tech**: Go (Gin), SvelteKit, TypeScript, PostgreSQL, Authentik, Prometheus/Grafana
+- **Architecture**: Microservices-ready foundation with OIDC authentication and monitoring
+- **Features**:  Secure portfolio management, OAuth2/PKCE auth flow, rootless Podman containers
+- **Highlights**: Extensible ecosystem with shared infrastructure and comprehensive testing
+
+### 📒 [Ledger Service](https://github.com/JorgeSaicoski/ledger-service)
+**Financial Ledger Microservice**
+- **Tech**:  Go, Shell scripting
+- **Purpose**: Dedicated service for financial transaction management
+- **Architecture**: Part of the Portfolio Manager ecosystem
+- **Benefits**: Modular financial tracking with microservice independence
+
 ### 🎯 [Personal Manager](https://github.com/JorgeSaicoski/personal-manager) 
 **Microservices-based Personal Organization Platform**
 - **Tech**: Go, Next.js, Keycloak, PostgreSQL, Docker
@@ -55,13 +73,13 @@ Senior Backend Engineer specialized in **Golang** with 8+ years of experience de
 **Desktop Time Tracking Application**
 - **Tech**: Wails (Go + Svelte), SQLite
 - **Purpose**: Help employees track work hours and productivity
-- **Impact**: Assists professionals in salary negotiations with documented work patterns
+- **Impact**:  Assists professionals in salary negotiations with documented work patterns
 
 ### 🗃️ [PgConnect](https://github.com/JorgeSaicoski/pgconnect)
 **Generic PostgreSQL Repository Library**
 - **Tech**: Go, GORM, PostgreSQL
 - **Purpose**: Reusable database connection and repository patterns
-- **Benefits**: Accelerates Go application development
+- **Benefits**:  Accelerates Go application development
 
 ### 📊 [YourStatsHelper](https://github.com/JorgeSaicoski/YourStatsHelper)
 **Statistics Learning Platform**
@@ -70,8 +88,13 @@ Senior Backend Engineer specialized in **Golang** with 8+ years of experience de
 - **Impact**: Helps students master statistics with interactive tools
 
 ## 💼 Professional Experience Highlights
+**🏢 Contractor at WiTI** (Sep 2025 - present)
+- Cencosud Project - Backend Development
+- Integrated promotions microservices with third-party services
+- Developed authentication microservices from scratch
+- Built search consumer microservice with store and consumer filtering capabilities
 
-**🏢 Tata Consultancy Services** (Nov 2023 - Present) 
+**🏢 Tata Consultancy Services** (Nov 2023 - Sep 2025) 
 - Azure App Service Engineer for Microsoft
 - Reduced cloud operational costs by **30%** using advanced diagnostics
 - Implemented Go API replacing Python system → **60% performance improvement**
@@ -82,34 +105,7 @@ Senior Backend Engineer specialized in **Golang** with 8+ years of experience de
 - Reduced restaurant order processing from **5 minutes to instant**
 - Developed healthcare management systems (CUDIM)
 
-## 🎓 Education & Certifications
 
-- **Postgraduate**: Cloud Computing & Software Engineering - Anhanguera Educacional
-- **Azure ELX PERF/DEV Specialist**
-- **LPIC-102 Certification**
-- **Microsoft Recognition Certificate**
-- **NestJS Fundamentals Certification**
-
-## 🌱 What I'm Currently Working On
-
-- 🔨 Building modular Personal Manager ecosystem with specialized modules
-- 🚀 Contributing to open-source Go libraries for microservices
-- 📚 Exploring advanced cloud-native patterns and observability
-- 🤝 Looking for opportunities to collaborate on innovative projects
-
-## 📊 GitHub Profile Summary
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JorgeSaicoski&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JorgeSaicoski&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JorgeSaicoski&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JorgeSaicoski&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JorgeSaicoski&theme=radical)
-
-</div>
 
 ## 🎯 About me
 
