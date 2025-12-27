@@ -47,8 +47,6 @@ Jorge Adriano Saicoski Sarkis
 
 ## 🏆 Featured Projects
 
-## 🏆 Featured Projects
-
 ### 💼 [Portfolio Manager](https://github.com/JorgeSaicoski/portfolio-manager)
 **Modern Portfolio Management Platform with Microservices Architecture**
 - **Tech**: Go (Gin), SvelteKit, TypeScript, PostgreSQL, Authentik, Prometheus/Grafana
