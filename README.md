@@ -95,10 +95,12 @@ Jorge Adriano Saicoski Sarkis
 - Built search consumer microservice with store and consumer filtering capabilities
 
 **🏢 Tata Consultancy Services** (Nov 2023 - Sep 2025) 
-- Azure App Service Engineer for Microsoft
+- The Home Depot Projects - Backend development and infrastructure optimization
 - Reduced cloud operational costs by **30%** using advanced diagnostics
 - Implemented Go API replacing Python system → **60% performance improvement**
 - Led CI/CD improvements with GitHub Actions, Spinnaker
+- Worked on Azure projects helping companies reduce costs and improve availability
+- Reduced server costs by 50% through Kubernetes optimization
 
 **💻 Freelancer at Wozcode** (Aug 2018 - Nov 2023)
 - Led teams of 5 engineers creating CRM solutions
@@ -114,13 +116,3 @@ Jorge Adriano Saicoski Sarkis
 - 🧮 **Math Geek**: Created statistical tools that help students overcome fear of numbers
 - 🏢 **Business Minded**: Co-founded management software for microenterprises
 - 🔧 **Problem Solver**: Transformed restaurant operations from chaos to instant efficiency
-
----
-
-### 💡 "True changes require order, discipline, and perseverance"
-
-*Always open to interesting conversations and collaboration opportunities!*
-
-**📍 Location**: Montevideo, Uruguay  
-**💼 Status**: Open to remote Golang opportunities  
-**🌟 Passion**: Transforming complex problems into elegant solutions
